@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <div>Header</div>
+    <>
+      <span>Styling</span>
+      <span>Flex</span>
+    </>
   )
 }

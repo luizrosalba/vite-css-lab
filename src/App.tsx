@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-      <Header />
-      <Footer />
+      <div>nada 12 </div>
     </>
 
   )
