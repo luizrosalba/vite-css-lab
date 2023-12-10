@@ -1,3 +1,4 @@
+import Footer from './Footer';
 import Header from './Header';
 import { Outlet } from 'react-router-dom';
 
@@ -11,7 +12,7 @@ export default function Layout() {
                 {/* 2️⃣ Render the app routes via the Layout Outlet */}
                 <Outlet />
             </main>
-            <footer>©️ me 2023</footer>
+            <Footer />
         </>
     );
 }

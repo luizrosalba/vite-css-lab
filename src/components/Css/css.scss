@@ -1,0 +1,13 @@
+$black-color: black;
+
+$primary-color: #eb0000;
+
+.text {
+    color: $black-color;
+}
+
+div {
+    p {
+        color: $primary-color;
+    }
+}

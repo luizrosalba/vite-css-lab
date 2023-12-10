@@ -1,12 +1,10 @@
 import './App.scss'
-import Footer from './components/Layout/Footer'
-import Header from './components/Layout/Header'
 
 function App() {
 
   return (
     <>
-      <div>nada 12 </div>
+      <div>This website is a playground for css and saas</div>
     </>
 
   )

@@ -1,0 +1,10 @@
+.footer-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    .footer {
+        position:absolute;
+        bottom:0;
+    
+    }
+}
