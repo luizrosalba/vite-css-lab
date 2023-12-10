@@ -1,13 +1,18 @@
 $black-color: black;
 
-$primary-color: #eb0000;
+$red-color: #eb0000;
+$blue-color: #3b00eb;
 
-.text {
-    color: $black-color;
+.class-example {
+    color: $red-color;
+}
+.class-example .class-example-2 {
+    color: aqua;
+    text-decoration: dashed;
 }
 
 div {
     p {
-        color: $primary-color;
+        color: $black-color;
     }
 }
